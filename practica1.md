@@ -14,15 +14,15 @@ Les vostres respostes, aquí.
 
 #### Pregunta 3:
 #### Enumera els diferents elements que formen part d'un diagrama de classe.
-→ <p>Títol de clase <p>
+<p> → Títol de clase <p>
    <p>  Atributs de clase <p>
     <p> Mètodes de clase←  <p>
 
 #### Pregunta 4:
 #### Defineix els elements nomenats anteriorment.
-→ Títol de clase: La primera secció es reserva per l’estereotip i el nom de la classe, on es defineix la categoria de la clase, un conjunt de propietats, comportament i restriccions preestablertes.
-Atributs de clase: La segona secció es reserva per als atributs, on es defineix quines dades pot emmagatzemar la clase, el nom i els seus tipus.
-Mètodes de clase: La tercera secció es reserva per als mètodes, on es defineix el    comportament que tindrà la clase, el nom i els seus paràmetres.← 
+<p> → Títol de clase: La primera secció es reserva per l’estereotip i el nom de la classe, on es defineix la categoria de la clase, un conjunt de propietats, comportament i restriccions preestablertes. <p>
+<p> Atributs de clase: La segona secció es reserva per als atributs, on es defineix quines dades pot emmagatzemar la clase, el nom i els seus tipus.
+Mètodes de clase: La tercera secció es reserva per als mètodes, on es defineix el  comportament que tindrà la clase, el nom i els seus paràmetres.← <p>
 
 #### Pregunta 5:
 #### En UML, com es representa una classe?
