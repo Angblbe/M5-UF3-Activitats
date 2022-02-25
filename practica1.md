@@ -26,7 +26,7 @@ Mètodes de clase: La tercera secció es reserva per als mètodes, on es definei
 
 #### Pregunta 5:
 #### En UML, com es representa una classe?
-→ Una classe es representa com una capça dividida en tres seccions. Dintre d’aquesta es troba la primera secció reservada per l’estereotip i el nom de la classe. Sota d’aquesta es troba la segona secció que esta destinada per als atributs i finalment la tercera secció reservada per als mètodes. ← 
+<p> → Una classe es representa com una capça dividida en tres seccions. Dintre d’aquesta es troba la primera secció reservada per l’estereotip i el nom de la classe. Sota d’aquesta es troba la segona secció que esta destinada per als atributs i finalment la tercera secció reservada per als mètodes. ← <p>
 
 #### Pregunta 6:
 #### Completa el següent rectangle enumerant i explicant que conté cada divisió. 
@@ -45,30 +45,30 @@ Afegeix un exemple.
                 |--------------------------
 
 
- → Secció superior: Conté el nom de la classe. Aquesta secció sempre és necessària, ja sigui l’estereotip o d'un objecte.
-Secció central: Conté els atributs de la classe. Aquesta secció es fa servir  per descriure qualitats de la classe. Això només cal quan es  descriu una instància específica d'una classe.
-Secció inferior: Inclou els metodes). Això està organitzat en un format de llista. Cada operació requereix la seva línia. Les operacions descriuen com una classe pot interactuar amb les dades.
+<p> → Secció superior: Conté el nom de la classe. Aquesta secció sempre és necessària, ja sigui l’estereotip o d'un objecte. <p>
+<p> Secció central: Conté els atributs de la classe. Aquesta secció es fa servir  per descriure qualitats de la classe. Això només cal quan es  descriu una instància específica d'una classe. <p>
+<p> Secció inferior: Inclou els metodes). Això està organitzat en un format de llista. Cada operació requereix la seva línia. Les operacions descriuen com una classe pot interactuar amb les dades. <p>
  ← 
 #### Pregunta 7:
 #### Els atributs i mètodes d'un diagrama de classes poden ser de quatre tipus. Enumera i explica cadascun.
 →  
-Visibilitat pública: Visible per tots els objectes. Es representa amb +.
-Visibilitat protegida: Visible només per l'objecte i els descendents. Es representa amb #.
-Visibilitat privada: Visible només per l'objecte. Es representa amb -.
-Visibilitat predeterminada:  Segons com estigui establert es podra o no veure. Es representa amb ~.
+<p> Visibilitat pública: Visible per tots els objectes. Es representa amb +. <p>
+<p> Visibilitat protegida: Visible només per l'objecte i els descendents. Es representa amb #. <p>
+<p> Visibilitat privada: Visible només per l'objecte. Es representa amb -. <p>
+<p> Visibilitat predeterminada:  Segons com estigui establert es podra o no veure. Es representa amb ~. <p>
 ← 
 #### Pregunta 8:
 #### Quin símbol representa a cada estat?
-→  Public: +
-Predeterminat:  ~
-Protected: #
-Private: -    ← 
+<p> →  Public: + <p>
+<p> Predeterminat:  ~ <p>
+<p> Protected: # <p>
+<p> Private: -    ←  <p>
 
 #### Pregunta 9:
 #### D’aquests quatre tipus, sabries dir quin es comporta diferent entre Java i C#?
-→ Protected: #  ←
+<p> → Protected: #  ← <p>
  
 #### Pregunta 10:
 #### D’aquest quatre tipus, sabries dir quin és exclusiu de Java? Quin seria el seu equivalent a C#?
-→ El package (predeterminat) es exclusiu de Java
-El using es exclusiu de C# ← 
+<p> → El package (predeterminat) es exclusiu de Java <p>
+<p> El using es exclusiu de C# ← <p>
