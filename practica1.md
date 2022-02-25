@@ -5,18 +5,18 @@ Les vostres respostes, aquí.
 
 #### Pregunta 1:
 #### Què és un diagrama de classes?
-→ El diagrama de clases es una eina que serveix per a comunicar el disseny d’un programa orientat a objectes permetent-los modelar les seves classes, atributs, operacions i relacions entre les entitats. ← 
+<p> → El diagrama de clases es una eina que serveix per a comunicar el disseny d’un programa orientat a objectes permetent-los modelar les seves classes, atributs, operacions i relacions entre les entitats. ← <p>
 
 
 #### Pregunta 2:
 #### Per a què serveix un diagrama de classes?
-→ Un diagrama de classes es podria considerar com els plànols d’un sistema. Es poden utilitzar per modelar els objectes que formen part d’un sistema, mostrar les relacions entre els objectes, descriure que fan i els serveis que proporcionen.  ← 
+<p> → Un diagrama de classes es podria considerar com els plànols d’un sistema. Es poden utilitzar per modelar els objectes que formen part d’un sistema, mostrar les relacions entre els objectes, descriure que fan i els serveis que proporcionen.  ← <p>
 
 #### Pregunta 3:
 #### Enumera els diferents elements que formen part d'un diagrama de classe.
-→ Títol de clase,
-     Atributs de clase,
-     Mètodes de clase← 
+→ <p>Títol de clase <p>
+   <p>  Atributs de clase <p>
+    <p> Mètodes de clase←  <p>
 
 #### Pregunta 4:
 #### Defineix els elements nomenats anteriorment.
