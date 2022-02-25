@@ -14,8 +14,8 @@ Les vostres respostes, aquí.
 
 #### Pregunta 3:
 #### Enumera els diferents elements que formen part d'un diagrama de classe.
-→ Títol de clase
-     Atributs de clase
+→ Títol de clase,
+     Atributs de clase,
      Mètodes de clase← 
 
 #### Pregunta 4:
